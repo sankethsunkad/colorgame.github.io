@@ -76,4 +76,9 @@ button:hover{
 #gameStatus{
   display: inline-block;
   width: 20%;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: cursive;
+  font-style: oblique;
 }
